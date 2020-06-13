@@ -1,4 +1,4 @@
-#Zebra Technologies Interview Coding Exercise
+#Zebra Technologies - Interview Coding Exercise
 
 This is java application is developed to demonstrate my ability to build a greenfield project, specifically a command-line application to score a game of ten-pin bowling.
 
